@@ -8,6 +8,9 @@ This project features a DIY 6-DOF robotic arm that is controlled via Bluetooth u
 - 3D-printed components and custom assembly
 - Utilizes the PCA9685 servo driver to control up to 16 servos
 
+## App Information
+The app, `RobotArmControl_SP.apk`, is developed with MIT App Inventor and is intended for Android devices. After installing the app, please make sure to enable permission for "Nearby Devices" to allow Bluetooth communication with the robotic arm.
+
 ## Resources
 - **Blog:** [DIY 6-DOF Robotic Arm with Bluetooth Control](https://omartronics.com/diy-6-dof-robotic-arm-with-bluetooth-control-design-build-and-program/)
 - **Video:** [YouTube Video](https://youtu.be/op7UYowvfX0)
